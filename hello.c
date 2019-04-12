@@ -27,7 +27,7 @@ int main()
 
 
 
-
+printf("Vand fan 3lei/kg");
 
 
 
